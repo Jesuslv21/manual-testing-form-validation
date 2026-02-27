@@ -61,7 +61,5 @@ This project strengthened my understanding of:
 
 ## 📁 Repository Structure
 
-- Test_Cases.xlsx
-- Bug_Report.md
-- Evidence_Screenshots/
+- Casos de prueba Urban Roots.xlsx
 - README.md
